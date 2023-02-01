@@ -5,6 +5,8 @@ About The Project
 
 Tableau projects for Data analysis using Tableau Desktop
 
+Project workbooks links are embedded below
+
 [Practice Datasets](https://www.superdatascience.com/pages/tableau)
 
 Reference Datasets
@@ -19,6 +21,7 @@ Reference Datasets
 - Personal Vehicle SalesGlobal
 
 ### Projects:
+- Clickable project visualizations links are attached below for more details in Tableau Public
 
 #### Super Store
 
@@ -30,21 +33,34 @@ Reference Datasets
 #### US Unemployment Data (2005-2015)
 
 [To evaluate the US Unemployment distribution by Gender](https://public.tableau.com/app/profile/paavan/viz/USLongTermUnemploymentforGenders/Sheet1)
+
 [To visulaize long term unemployment across different Age Groups](https://public.tableau.com/app/profile/paavan/viz/LongtermUnemploymentacrossagegroups/Sheet1)
 
 ----
 #### Amazing Mart EU
 [Profit Margin Dashboard of below viz with highlighter](https://public.tableau.com/app/profile/paavan/viz/ProfitMarginacrossEuropecountries/Dashboard1)
-	Profit margin for countries over year
-	Profit Margin per each customer in EU
+- Profit margin for countries over year
+- Profit Margin per each customer in EU
 
 ----
 #### Airline Data
 [Airlines Revenue Comparison for two different airlines](https://public.tableau.com/app/profile/paavan/viz/AirlineRevenuebyRegion_16745701385370/AirlineRevenue)
+
 [Sales Vs Target by Categories](https://public.tableau.com/app/profile/paavan/viz/SalesvsTarget_16745726555740/SalesvsTarget)
+
 [Excess or short of Target Sales by Category](https://public.tableau.com/app/profile/paavan/viz/CategoriesthatexceedorshortofTargetSales/SalesvsTarget)
 
 ----
+
+
+#### Brazillian E-Commerce Store Dataset
+[Total Payments by seller location using relationships between 9 datasets](https://public.tableau.com/app/profile/paavan/viz/PaymentsbyLocation/Sheet1)
+
+Section Challenge:
+Create a map showing sellers in their geolocations with bubbles to illustrate how much money in total payments they have received from customers
+
+---
+
 #### UK Bank Customers
 
 [UK Bank Customer Storyline](https://public.tableau.com/app/profile/paavan/viz/UKBankCustomersStoryline_16746585286280/UKBankCustomersBaseline):
@@ -55,8 +71,16 @@ Reference Datasets
 - Insights for UK Bank Customer represented with Storyline.
 - Popularity of Bank by percentage of customers by region
 - Representation of Job type distribution of deposit balance 
-- Region with wealthier customers?
+- Region with wealthier customers
 ----
+
+#### Annual sales of personal vehicles(Global)
+
+[Vehicles Sold per year across the world- Dashboard](https://public.tableau.com/app/profile/paavan/viz/VehiclesSoldperyearacrosstheworld/Dashboard1)
+- Data cleaning using data interpreter and filters and Data Progression using Pivots, Split columns and Metadata
+
+----
+
 #### Laundry Pick up service startup
 
 [Laundry Startup Storyline](https://public.tableau.com/app/profile/paavan/viz/LaundryStartupAnalysis_16749308931410/LaundryStartupAnalysis)
