@@ -21,7 +21,7 @@ Reference Datasets
 - Personal Vehicle SalesGlobal
 
 ### Projects:
-- Clickable project visualizations links are attached below for more details in Tableau Public
+- **Clickable project visualizations links are attached below for more details in [Tableau Public](https://public.tableau.com/app/profile/paavan)**
 
 #### Super Store
 
