@@ -1,5 +1,5 @@
 # Tableau-2023-Hands-On-Projects
-Tableau Projects for data analysis, data analytics and data visualaization
+Tableau Projects for data analysis, data analytics and data visualization
 
 About The Project
 
